@@ -12,13 +12,13 @@ This project implements a clustering model for the Melodate dating app, designed
 ---
 
 ## **Project Team**
-Alvin Hartono – Universitas Bunda Mulia
-Bryan Nathaniel – Universitas Bunda Mulia
-Dedy Faradzi – Universitas Pamulang
-Lukas Krisna Prastiyan – Sekolah Tinggi Ilmu Komputer Yos Sudarso
-Medica Normalika Zakiah – Universitas Pembangunan Nasional Veteran Jawa Timur
-Mia – Universitas Bunda Mulia
-Vincent Pangdipta – Universitas Bunda Mulia
+- Alvin Hartono – Universitas Bunda Mulia
+- Bryan Nathaniel – Universitas Bunda Mulia
+- Dedy Faradzi – Universitas Pamulang
+- Lukas Krisna Prastiyan – Sekolah Tinggi Ilmu Komputer Yos Sudarso
+- Medica Normalika Zakiah – Universitas Pembangunan Nasional Veteran Jawa Timur
+- Mia – Universitas Bunda Mulia
+- Vincent Pangdipta – Universitas Bunda Mulia
 
 ---
 
